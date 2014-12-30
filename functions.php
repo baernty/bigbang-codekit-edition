@@ -211,7 +211,7 @@ if (!function_exists('bb_scripts'))
         /**
          * Adds our main script
          */
-        wp_enqueue_script('bigbang-main', get_template_directory_uri() . '/assets/js/frontend/main.min.js', array(), BB_VERSION, true);
+        wp_enqueue_script('bigbang-main', get_template_directory_uri() . '/assets/js/frontend/main-min.js', array(), BB_VERSION, true);
 
         if (is_singular() && comments_open() && get_option('thread_comments'))
         {
