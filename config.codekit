@@ -4913,7 +4913,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 6757,
+		"initialSize": 1.03055e+06,
 		"inputAbbreviatedPath": "\/screenshot.png",
 		"outputAbbreviatedPath": "\/screenshot.png",
 		"outputPathIsOutsideProject": 0,
@@ -4966,7 +4966,7 @@
 	"bowerAbbreviatedPath": "assets",
 	"displayValue": "bigbang-codekit-edition",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "pencil_blue"
+	"iconImageName": "\/screenshot.png"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 1,
